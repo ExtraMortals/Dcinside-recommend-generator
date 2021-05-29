@@ -1,1 +1,3 @@
 # Dcinside-recommend-generator
+
+for educational purpose only...
